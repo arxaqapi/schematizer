@@ -2,7 +2,7 @@ import torch
 from torch import nn
 import torch.nn.functional as F
 
-from device import DEVICE
+from schematizer.device import DEVICE
 
 
 class S2SDecoder(nn.Module):
