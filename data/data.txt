@@ -1,8 +1,8 @@
-let x be the sum of y and z;let $ident be the $op of $ident and $ident
-let myvar be the multiplication of s1 and s2;let $ident be the $op of $arg and $arg
-z si the sum of a1 and a2;$ident is the $op of $arg and $arg
-the product of arg1 and arg2 results in res1;the $op of $arg and $arg results in $ident
-It shows 2 and a;It $op $int and $ident
+let x be the sum of y and z;let $var be the $op of $var and $var
+let myvar be the multiplication of s1 and s2;let $var be the $op of $arg and $arg
+z is the sum of a1 and a2;$var is the $op of $arg and $arg
+the product of arg1 and arg2 results in res1;the $op of $arg and $arg results in $var
+It shows 2 and a;It $op $int and $var
 This function takes 3 arguments;This $ident takes $int arguments.
 It returns 7;It $op $int
-It returns a4;It $op $ident
+It returns a4;It $op $var
